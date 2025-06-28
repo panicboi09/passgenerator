@@ -47,7 +47,7 @@ Deployed using **GitHub Pages**:
 
 ## 📸 Screenshot
 
-"C:\Users\DURGA DUTT\Downloads\b07aaeb5-6df3-42b9-b5e5-d2bbb8c838bb.jfif"
+b07aaeb5-6df3-42b9-b5e5-d2bbb8c838bb.jfif
 ## 📜 License
 
 This project is open-source and free to use.
