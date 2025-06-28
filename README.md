@@ -1,12 +1,56 @@
-# React + Vite
+# 🔐 Password Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my second frontend project — a **Password Generator App** built using **Vite + React**. It allows users to generate secure and customizable passwords based on selected criteria.
 
-Currently, two official plugins are available:
+![Vite + React + Tailwind](https://img.shields.io/badge/Vite-React-blueviolet?logo=vite&logoColor=white)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Generate secure random passwords
+- Toggle character types (uppercase, lowercase, numbers, symbols)
+- Copy password to clipboard
+- Responsive design using Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ What I Explored
+
+This project was a great learning experience where I explored:
+
+- ⚡ **Vite** for fast development and build performance
+- ⚛️ **React hooks**, including:
+  - `useState` for managing UI state
+  - `useEffect` for lifecycle behavior
+  - `useRef` for DOM references and non-reactive variables
+  - `useCallback` for optimizing functions passed to child components
+
+## 📦 Technologies Used
+
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## 📂 Project Structure
+├── public/
+├── src/
+│ ├── components/
+│ ├── App.jsx
+│ └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+└── tailwind.config.js
+## 🌐 Live Demo
+
+Deployed using **GitHub Pages**:  
+[🔗 Click here to view the app](https://panicboi09.github.io/passgenerator/)
+
+> Replace the link with your actual GitHub Pages URL
+
+## 📸 Screenshot
+
+![App Screenshot](./screenshot.png)
+
+## 📜 License
+
+This project is open-source and free to use.
+
+---
