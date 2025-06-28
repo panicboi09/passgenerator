@@ -47,8 +47,7 @@ Deployed using **GitHub Pages**:
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
-
+blob:https://web.whatsapp.com/b07aaeb5-6df3-42b9-b5e5-d2bbb8c838bb
 ## 📜 License
 
 This project is open-source and free to use.
